@@ -34,8 +34,6 @@ Observed sales seasonality and category performance
 
 📁 Files Included
 
-SQL queries
-
 Python notebook (.ipynb)
 
 Cleaned dataset (.csv)
